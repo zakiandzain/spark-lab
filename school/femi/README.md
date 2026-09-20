@@ -7,7 +7,8 @@ NBE3U / FNMI English project. Collective title: **Femi**. Separate from Work 3U 
 1. **[INSTRUCTIONS.md](./INSTRUCTIONS.md)** — full project instructions (from email *femi instructions*)
 2. **[RUBRIC.md](./RUBRIC.md)** — marking rubric (from email *work 3u femi new*)
 3. **[SLIDES.md](./SLIDES.md)** — text OCR of all 10 Kyrie Irving source slides
-4. **[slides_web/index.html](./slides_web/index.html)** — **viewable pictures** of every slide
+4. **[SCRIPT_IZYAN.md](./SCRIPT_IZYAN.md)** — Izyan’s presentation script (Google Doc link; full text pending sign-in)
+5. **[slides_web/index.html](./slides_web/index.html)** — **viewable pictures** of every slide (open in a browser)
 
 Slides are also viewable as SVG files in [slides_web/](./slides_web/) (`1.svg`–`10.svg`) and through [index.html](./slides_web/index.html).
 
