@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720">
+  <rect width="960" height="720" fill="#f7f3ea"/>
+  <rect x="0" y="0" width="960" height="12" fill="#1a5f4a"/>
+  <text x="60" y="40" font-size="14" fill="#1a5f4a" font-family="Georgia, serif">Femi · Kyrie Irving NBE3U · Slide 3/10</text>
+  <g font-family="Georgia, serif">
+    <text x="60" y="70" font-size="28" font-weight="700" fill="#111">Name</text><text x="60" y="120" font-size="18" fill="#222">- Members of the tribe gave him the name **“Hela”**</text><text x="60" y="148" font-size="18" fill="#222">- This diversity reflects thousands of years of history and adaptation</text><text x="60" y="176" font-size="18" fill="#222">to different environments.</text>
+  </g>
+</svg>

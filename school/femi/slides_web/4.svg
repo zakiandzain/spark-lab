@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720">
+  <rect width="960" height="720" fill="#f7f3ea"/>
+  <rect x="0" y="0" width="960" height="12" fill="#1a5f4a"/>
+  <text x="60" y="40" font-size="14" fill="#1a5f4a" font-family="Georgia, serif">Femi · Kyrie Irving NBE3U · Slide 4/10</text>
+  <g font-family="Georgia, serif">
+    <text x="60" y="70" font-size="28" font-weight="700" fill="#111">Languages &amp; Communication</text><text x="60" y="120" font-size="18" fill="#222">**Languages and Oral Traditions**</text><text x="60" y="148" font-size="18" fill="#222">- Hundreds of Indigenous languages exist across North America</text><text x="60" y="176" font-size="18" fill="#222">- Stories and oral traditions pass knowledge between generations</text><text x="60" y="204" font-size="18" fill="#222">- Language plays a key role in cultural identity</text>
+  </g>
+</svg>
