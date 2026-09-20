@@ -13,3 +13,10 @@ Grok and Grokbot append dated notes here so the next chat is not starting from z
 ## 2026-09-20 — naming fix
 
 - It is **Grokbot**, not Groot. Docs updated.
+
+## 2026-09-20 — Zaki Helper
+
+- Added `school/` as the shared save file for school projects: https://github.com/zakiandzain/spark-lab/tree/main/school
+- **Work 3U Chemistry** → `school/chemistry/` (Intermolecular Forces).
+- **Femi** (Work 3U Femi / NBE3U) → `school/femi/` (Kyrie Irving source + presentation / visual component).
+- These two projects are **separate** and must not be mixed.
