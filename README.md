@@ -2,7 +2,7 @@
 
 Teach Zaki (16) to build apps with Grok.
 
-This GitHub repo is the shared save file between Grok chats — including this one and **Groot**. Paste the URL into any Grok chat with GitHub connected and say: *read GROKBOT.md and continue.*
+This GitHub repo is the shared save file between **this Grok chat** and **Grokbot**. Paste the URL into Grokbot and say: *read GROKBOT.md and continue.*
 
 **Repo:** [github.com/zakiandzain/spark-lab](https://github.com/zakiandzain/spark-lab)
 
@@ -23,15 +23,15 @@ Spark Lab is an eight-lesson course (~20 minutes each) that teaches vibe coding,
 
 Examples swap to his interests (games, music, sports, film, art, social, tools, robots).
 
-## For Groot / any grokbot
+## For Grokbot
 
 1. Connect GitHub as `zakiandzain`.
-2. Read [`GROKBOT.md`](GROKBOT.md) first. That is the onboarding.
-3. Then read [`docs/lessons.md`](docs/lessons.md).
-4. Open issue **#1** and comment when you are in.
+2. Read [`GROKBOT.md`](GROKBOT.md) first. That is your onboarding.
+3. Then read [`docs/lessons.md`](docs/lessons.md) and [`docs/handoff.md`](docs/handoff.md).
+4. Comment on issue **#1** when you are in.
 
 ## Files
 
-- [`GROKBOT.md`](GROKBOT.md) — how to behave as the teaching bot
+- [`GROKBOT.md`](GROKBOT.md) — how Grokbot should teach
 - [`docs/lessons.md`](docs/lessons.md) — the track, in full
-- [`docs/handoff.md`](docs/handoff.md) — what Grok already built in the live app
+- [`docs/handoff.md`](docs/handoff.md) — shared notes between Grok and Grokbot
